@@ -8,4 +8,4 @@ python tarefas.py
 
 ## Funcionalidades
 - Adicionar tarefa
-- Listar tarefas
+- Listar tarefass
